@@ -1,0 +1,284 @@
+﻿Associated link / Lien correspondant,Column header / Intitulé de la colonne,Description (EN),Description (FR),Data caveats (EN),Notes relatives aux données (FR),"Type (and format or values, if applicable) / Type (et format ou valeurs lorsqu'applicable)"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration.csv,pruid,"*No longer being updated as of 2023-09-15*
+
+The standard geographical classification (SGC) code of the jurisdiction (i.e., province or territory) submitting the report.","*N'est plus mis à jour à partir du 15/09/2023.*
+
+La classification géographique type (CGT) de la région (c.à-d. province or territoire) qui soumet le rapport.",,,"Type: Number
+ 
+ Values: 
+ 1 = Canada/Canada
+ 24 = Quebec/Québec
+ 35 = Ontario/Ontario
+ 59 = British Columbia/Colombie-Britannique
+ 48 = Alberta/Alberta
+ 47 = Saskatchewan/Saskatchewan
+ 12 = Nova Scotia/Nouvelle-Écosse
+ 46 = Manitoba/Manitoba
+ 10 = Newfoundland and Labrador/Terre-Neuve-et-Labrador
+ 11 = Prince Edward Island/Île-du-Prince-Édouard
+ 13 = New Brunswick/Nouveau-Brunswick
+ 60 = Yukon/Yukon
+ 61 = Northwest Territories/61 = Territoires du Nord-Ouest
+ 62 = Nunavut/Nunavut"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration.csv,prename,"*No longer being updated as of 2023-09-15*
+
+The name of the jurisdiction (i.e. province or territory), in English.","*N'est plus mis à jour à partir du 15/09/2023.*
+
+Le nom en anglais de la région (c.à-d. la province ou le territoire) qui soumet le rapport",,,
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration.csv,report_date,"*No longer being updated as of 2023-09-15*
+
+The date that the data was published on Infobase.","*N'est plus mis à jour à partir du 15/09/2023.*
+
+La date à laquelle les données ont été publiées sur l'infobase.",,,"Type: Date
+ 
+ Format: Date format
+ YYYY-MM-DD"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration.csv,numtotal_all_administered,"*No longer being updated as of 2023-09-15*
+
+The cumulative number of COVID-19 vaccine doses administered.","*N'est plus mis à jour à partir du 15/09/2023.*
+
+Le nombre cumulatif de doses de vaccin contre la COVID-19 administrées",,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration.csv,as_of_date,"*No longer being updated as of 2023-09-15*
+
+The date that the cumulative data was last updated.","*N'est plus mis à jour à partir du 15/09/2023.*
+
+La date à laquelle le nombre de doses administrées a été mise à jour.",,,"Type: Date
+ 
+ Format: Date format
+ YYYY-MM-DD"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration.csv,numtotal_dose1_administered,"*No longer being updated as of 2023-09-15*
+
+The cumulative number of first COVID-19 vaccine doses administered.","*N'est plus mis à jour à partir du 15/09/2023.*
+
+Le nombre cumulatif de premières doses de vaccin contre la COVID-19 administrées.","Please note that these data are sourced from provincial and territorial websites or from the Canadian COVID-19 Vaccination Coverage Surveillance System. For more details please see: https://health-infobase.canada.ca/covid-19/vaccine-administration/technical-notes.html#a1
+ 
+ The number of vaccine doses administered is not the same as the number of people vaccinated.","Veuillez noter que ces données proviennent de sites Web provinciaux et territoriaux ou du Système canadien de surveillance de la couverture vaccinale COVID-19. Pour plus de détails, veuillez consulter : https://sante-infobase.canada.ca/covid-19/vaccins-administres/notes-techniques.html
+ 
+ Le nombre de doses administrées n’est pas le même que le nombre de personnes vaccinées.","Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration.csv,numtotal_dose2_administered,"*No longer being updated as of 2023-09-15*
+
+The cumulative number of second COVID-19 vaccine doses administered.","*N'est plus mis à jour à partir du 15/09/2023.*
+
+Le nombre cumulatif de deuxièmes doses de vaccin contre la COVID-19 administrées","Please note that these data are sourced from provincial and territorial websites or from the Canadian COVID-19 Vaccination Coverage Surveillance System. For more details please see: https://health-infobase.canada.ca/covid-19/vaccine-administration/technical-notes.html#a1
+ 
+ The number of vaccine doses administered is not the same as the number of people vaccinated.","Veuillez noter que ces données proviennent de sites Web provinciaux et territoriaux ou du Système canadien de surveillance de la couverture vaccinale COVID-19. Pour plus de détails, veuillez consulter : https://sante-infobase.canada.ca/covid-19/vaccins-administres/notes-techniques.html
+ 
+ Le nombre de doses administrées n’est pas le même que le nombre de personnes vaccinées.","Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration.csv,numtotal_dose3_administered,"*No longer being updated as of 2023-09-15*
+
+The cumulative number of third COVID-19 vaccine doses administered.","*N'est plus mis à jour à partir du 15/09/2023.*
+
+Le nombre cumulatif de troisièmes doses de vaccin contre la COVID-19 administrées","Please note that these data are sourced from provincial and territorial websites or from the Canadian COVID-19 Vaccination Coverage Surveillance System. For more details please see: https://health-infobase.canada.ca/covid-19/vaccine-administration/technical-notes.html#a1
+ 
+ The number of vaccine doses administered is not the same as the number of people vaccinated.","Veuillez noter que ces données proviennent de sites Web provinciaux et territoriaux ou du Système canadien de surveillance de la couverture vaccinale COVID-19. Pour plus de détails, veuillez consulter : https://sante-infobase.canada.ca/covid-19/vaccins-administres/notes-techniques.html
+ 
+ Le nombre de doses administrées n’est pas le même que le nombre de personnes vaccinées.","Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration.csv,numtotal_dose4_administered,"*No longer being updated as of 2023-09-15*
+
+The cumulative number of fourth COVID-19 vaccine doses administered.","*N'est plus mis à jour à partir du 15/09/2023.*
+
+Le nombre cumulatif de quatrièmes doses de vaccin contre la COVID-19 administrées","Please note that these data are sourced from provincial and territorial websites or from the Canadian COVID-19 Vaccination Coverage Surveillance System. For more details please see: https://health-infobase.canada.ca/covid-19/vaccine-administration/technical-notes.html#a1
+ 
+ The number of vaccine doses administered is not the same as the number of people vaccinated.","Veuillez noter que ces données proviennent de sites Web provinciaux et territoriaux ou du Système canadien de surveillance de la couverture vaccinale COVID-19. Pour plus de détails, veuillez consulter : https://sante-infobase.canada.ca/covid-19/vaccins-administres/notes-techniques.html
+ 
+ Le nombre de doses administrées n’est pas le même que le nombre de personnes vaccinées.","Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration.csv,updated,"*No longer being updated as of 2023-09-15*
+
+Indicates if the data were updated. The data update for each province/territory is available at different times.","*N'est plus mis à jour à partir du 15/09/2023.*
+
+Indique si les données ont été mises à jour. La mise à jour pour chaque province/territoire est disponible à des moments différents.",,,"Type: Number
+ 
+ Values:
+ 0 = Not updated
+ 1 = Updated"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,week_end,"The last day included in the cumulative data update, i.e., data as of the date indicated in this variable includes the cumulative number of doses administered since December 14, 2020.
+ 
+ These data were updated:
+- Every week until April 10, 2022
+- Every 2 weeks until May 22, 2022
+- Every 4 weeks until April 23, 2023
+- Every 8 weeks until June 18, 2023
+- Every 12 weeks until February 25, 2024
+- 18 weeks between February 25, 2024 and June 30, 2024 ","La dernière date incluse dans la mise à jour des données cumulatives. Autrement dit, les données à la date indiquée par cette variable incluent le nombre cumulatif de doses administrées depuis le 14 décembre 2020.
+ 
+ Ces données ont été mises à jour :
+- Chaque semaine jusqu'au 10 avril 2022
+- Toutes les 2 semaines jusqu'au 22 mai 2022
+- Toutes les 4 semaines jusqu'au 23 avril 2023
+- Toutes les 8 semaines jusqu'au 18 juin 2023
+- Toutes les 12 semaines jusqu'au 25 février 2024
+- 18 semaines entre le 25 février 2024 et le 30 juin 2024","The COVID-19 vaccination campaign began in Canada on December 14, 2020. Please see the data availability section linked in this cell for specific dates.",La campagne de vaccination contre la COVID-19 a commencé au Canada le 14 décembre 2020. Veuillez consulter la section sur la disponibilité des données liée dans cette cellule pour connaître les dates précises.,"Type: Date
+ 
+ Format: Date format
+ YYYY-MM-DD
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,pruid,"The standard geographical classification (SGC) code of the jurisdiction (i.e., province or territory) submitting the report.",La classification géographique type (CGT) de la région (c.à-d. province or territoire) qui soumet le rapport.,,,"Type: Number
+ 
+ Values: 
+ 1 = Canada/Canada
+ 24 = Quebec/Québec
+ 35 = Ontario/Ontario
+ 59 = British Columbia/Colombie-Britannique
+ 48 = Alberta/Alberta
+ 47 = Saskatchewan/Saskatchewan
+ 12 = Nova Scotia/Nouvelle-Écosse
+ 46 = Manitoba/Manitoba
+ 10 = Newfoundland and Labrador/Terre-Neuve-et-Labrador
+ 11 = Prince Edward Island/Île-du-Prince-Édouard
+ 13 = New Brunswick/Nouveau-Brunswick
+ 60 = Yukon/Yukon
+ 61 = Northwest Territories/61 = Territoires du Nord-Ouest
+ 62 = Nunavut/Nunavut"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,prename,"The name of the jurisdiction (i.e. province or territory), in English.",Le nom en anglais de la région (c.à-d. la province ou le territoire) qui soumet le rapport,,,"Type: Text
+ 
+ Values:
+ Canada
+ Alberta
+ British Columbia
+ Manitoba
+ New Brunswick
+ Newfoundland and Labrador
+ Northwest Territories
+ Nova Scotia
+ Nunavut
+ Ontario
+ Prince Edward Island
+ Quebec
+ Saskatchewan
+ Yukon"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,prfname,"The name of the jurisdiction (i.e. province or territory), in French.",Le nom en français de la région (c.à-d. la province ou le territoire) qui soumet le rapport,,,"Type: Text
+ 
+ Values:
+ Canada
+ Alberta
+ Île-du-Prince-Édouard
+ Colombie-Britannique
+ Manitoba
+ Nouveau-Brunswick
+ Nouvelle-Écosse
+ Nunavut
+ Ontario
+ Québec
+ Saskatchewan
+ Terre-Neuve-et-Labrador
+ Territoires du Nord-Ouest
+ Yukon"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,vaccine_group,Vaccine products were grouped by vaccine manufacturer's name or formulation.,Les vaccins ont été regroupés selon le nom du manufacturier ou de la formulation du vaccin,,,"Type: Text
+As of December 1, 2023
+Values:
+Pfizer-BioNTech Comirnaty vaccines with the original strain
+Moderna Spikevax vaccines with the original strain
+Other vaccines
+Unknown
+Total
+ 
+Prior to December 1, 2023
+Values:
+ Pfizer-BioNTech Comirnaty formulations
+ Moderna Spikevax formulations
+ Other Health Canada approved vaccines
+ Unknown
+ Total"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,product_name,The name of the COVID-19 vaccine.,Le nom du vaccin contre la COVID-19.,,,"Type: Text
+ 
+ Values:
+ AstraZeneca Vaxzevria/COVISHIELD
+ Janssen Jcovden
+ Medicago Covifenz
+ Moderna Spikevax
+ Moderna Spikevax (ages 6 months-5 years)
+ Moderna Spikevax Bivalent Original and BA4/BA5
+ Moderna Spikevax Bivalent Original/BA1
+ Not reported
+ Novavax Nuvaxovid
+ Pfizer-BioNTech Comirnaty (ages 12 years and older)
+ Pfizer-BioNTech Comirnaty (ages 5-11 years)
+ Pfizer-BioNTech Comirnaty Bivalent Original and BA4/BA5
+ Pfizer-BioNTech Comirnaty pediatric 6 months-4 years
+ Total
+ Unknown"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,numtotal_totaldoses_admin,"The cumulative total number of COVID-19 vaccine doses administered. All doses are included regardless of the dose rank.
+ Data includes all doses administered by the reporting jurisdiction, and therefore may include doses administered to non-residents of the said jurisdiction or people who are deceased at the time of reporting. Data also includes invalid doses.","Le nombre total cumulatif de doses de vaccin contre la COVID-19 administrées. Toutes les doses sont incluses peu importe le rang de la dose.
+ 
+ Les données incluent toutes les doses administrées par la province ou le territoire qui soumet le rapport et peuvent donc inclure les doses administrées aux non-résidents de ladite pronvince ou dudit trerritoire, ou aux personnes décédées au moment du rapport. Les données incluent également les doses invalides.","These data are sourced from the Canadian COVID-19 Vaccination Coverage Surveillance System (CCVCSS).
+ Although COVID-19 vaccinations began the week of December 13, 2020 in Canada, different provinces and territories began vaccinating at different times.
+ Doses administered should not be used as a substitute of vaccination coverage.","Ces données proviennent du Système canadien de surveillance de la couverture vaccinale COVID-19 (CCVCSS). Bien que les vaccinations contre la COVID-19 ont commencé la semaine du 13 décembre 2020 au Canada, différentes provinces et territoires ont commencé à vacciner à des moments différents. Les doses administrées ne doivent pas être utilisées comme substitut de la couverture vaccinale.",Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,numtotal_dose1_admin,"The cumulative number of first COVID-19 vaccine doses administered.
+ Data includes all doses administered by the reporting jurisdiction, and therefore may include doses administered to non-residents of the said jurisdiction or people who are deceased at the time of reporting. Data also includes invalid doses.","Le nombre cumulatif de premières doses de vaccin contre la COVID-19 administrées.
+ 
+ Les données incluent toutes les doses administrées par la province ou le territoire qui soumet le rapport et peuvent donc inclure les doses administrées aux non-résidents de ladite pronvince ou dudit trerritoire, ou aux personnes décédées au moment du rapport. Les données incluent également les doses invalides.","These data are sourced from the Canadian COVID-19 Vaccination Coverage Surveillance System (CCVCSS).
+ Although COVID-19 vaccinations began the week of December 13, 2020 in Canada, different provinces and territories began vaccinating at different times.
+ Doses administered should not be used as a substitute of vaccination coverage.","Ces données proviennent du Système canadien de surveillance de la couverture vaccinale COVID-19 (CCVCSS). Bien que les vaccinations contre la COVID-19 ont commencé la semaine du 13 décembre 2020 au Canada, différentes provinces et territoires ont commencé à vacciner à des moments différents. Les doses administrées ne doivent pas être utilisées comme substitut de la couverture vaccinale.","Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,numtotal_dose2_admin,"The cumulative number of second COVID-19 vaccine doses administered.
+ Data includes all doses administered by the reporting jurisdiction, and therefore may include doses administered to non-residents of the said jurisdiction or people who are deceased at the time of reporting. Data also includes invalid doses.","Le nombre cumulatif de deuxièmes doses de vaccin contre la COVID-19 administrées.
+ 
+ Les données incluent toutes les doses administrées par la province ou le territoire qui soumet le rapport et peuvent donc inclure les doses administrées aux non-résidents de ladite pronvince ou dudit trerritoire, ou aux personnes décédées au moment du rapport. Les données incluent également les doses invalides.","These data are sourced from the Canadian COVID-19 Vaccination Coverage Surveillance System (CCVCSS).
+ Although COVID-19 vaccinations began the week of December 13, 2020 in Canada, different provinces and territories began vaccinating at different times.
+ Doses administered should not be used as a substitute of vaccination coverage.","Ces données proviennent du Système canadien de surveillance de la couverture vaccinale COVID-19 (CCVCSS). Bien que les vaccinations contre la COVID-19 ont commencé la semaine du 13 décembre 2020 au Canada, différentes provinces et territoires ont commencé à vacciner à des moments différents. Les doses administrées ne doivent pas être utilisées comme substitut de la couverture vaccinale.","Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,numtotal_dose3_admin,"The cumulative number of third COVID-19 vaccine doses administered. 
+ Data includes all doses administered by the reporting jurisdiction, and therefore may include doses administered to non-residents of the said jurisdiction or people who are deceased at the time of reporting. Data also includes invalid doses.","Le nombre cumulatif de troisièmes doses de vaccin contre la COVID-19 administrées.
+ 
+ Les données incluent toutes les doses administrées par la province ou le territoire qui soumet le rapport et peuvent donc inclure les doses administrées aux non-résidents de ladite pronvince ou dudit trerritoire, ou aux personnes décédées au moment du rapport. Les données incluent également les doses invalides.","These data are sourced from the Canadian COVID-19 Vaccination Coverage Surveillance System (CCVCSS).
+ Although COVID-19 vaccinations began the week of December 13, 2020 in Canada, different provinces and territories began vaccinating at different times.
+ Doses administered should not be used as a substitute of vaccination coverage.","Ces données proviennent du Système canadien de surveillance de la couverture vaccinale COVID-19 (CCVCSS). Bien que les vaccinations contre la COVID-19 ont commencé la semaine du 13 décembre 2020 au Canada, différentes provinces et territoires ont commencé à vacciner à des moments différents. Les doses administrées ne doivent pas être utilisées comme substitut de la couverture vaccinale.","Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,numtotal_dose4_admin,"The cumulative number of fourth COVID-19 vaccine doses administered.
+ Data includes all doses administered by the reporting jurisdiction, and therefore may include doses administered to non-residents of the said jurisdiction or people who are deceased at the time of reporting. Data also includes invalid doses.","Le nombre cumulatif de quatrièmes doses de vaccin contre la COVID-19 administrées.
+ 
+ Les données incluent toutes les doses administrées par la province ou le territoire qui soumet le rapport et peuvent donc inclure les doses administrées aux non-résidents de ladite pronvince ou dudit trerritoire, ou aux personnes décédées au moment du rapport. Les données incluent également les doses invalides.","These data are sourced from the Canadian COVID-19 Vaccination Coverage Surveillance System (CCVCSS).
+ Although COVID-19 vaccinations began the week of December 13, 2020 in Canada, different provinces and territories began vaccinating at different times.
+ Doses administered should not be used as a substitute of vaccination coverage.","Ces données proviennent du Système canadien de surveillance de la couverture vaccinale COVID-19 (CCVCSS). Bien que les vaccinations contre la COVID-19 ont commencé la semaine du 13 décembre 2020 au Canada, différentes provinces et territoires ont commencé à vacciner à des moments différents. Les doses administrées ne doivent pas être utilisées comme substitut de la couverture vaccinale.","Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,numtotal_dose5+_admin,"The cumulative number of fifth or more COVID-19 vaccine doses administered.
+ Data includes all doses administered by the reporting jurisdiction, and therefore may include doses administered to non-residents of the said jurisdiction or people who are deceased at the time of reporting. Data also includes invalid doses.","Le nombre cumulatif de cinquièmes doses ou plus de vaccin contre la COVID-19 administrées.
+ 
+ Les données incluent toutes les doses administrées par la province ou le territoire qui soumet le rapport et peuvent donc inclure les doses administrées aux non-résidents de ladite pronvince ou dudit trerritoire, ou aux personnes décédées au moment du rapport. Les données incluent également les doses invalides.","These data are sourced from the Canadian COVID-19 Vaccination Coverage Surveillance System (CCVCSS).
+ Although COVID-19 vaccinations began the week of December 13, 2020 in Canada, different provinces and territories began vaccinating at different times.
+ Doses administered should not be used as a substitute of vaccination coverage.","Ces données proviennent du Système canadien de surveillance de la couverture vaccinale COVID-19 (CCVCSS). Bien que les vaccinations contre la COVID-19 ont commencé la semaine du 13 décembre 2020 au Canada, différentes provinces et territoires ont commencé à vacciner à des moments différents. Les doses administrées ne doivent pas être utilisées comme substitut de la couverture vaccinale.","Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,numtotal_dosenotreported_admin,The cumulative number of COVID-19 vaccine doses administered for which the dose number was not reported.,Le nombre cumulatif de doses de vaccin contre la COVID-19 administrées pour lesquelles le rang de la dose n'a pas été rapporté.,"These data are sourced from the Canadian COVID-19 Vaccination Coverage Surveillance System (CCVCSS).
+ Although COVID-19 vaccinations began the week of December 13, 2020 in Canada, different provinces and territories began vaccinating at different times.
+ Doses administered should not be used as a substitute of vaccination coverage.","Ces données proviennent du Système canadien de surveillance de la couverture vaccinale COVID-19 (CCVCSS). Bien que les vaccinations contre la COVID-19 ont commencé la semaine du 13 décembre 2020 au Canada, différentes provinces et territoires ont commencé à vacciner à des moments différents. Les doses administrées ne doivent pas être utilisées comme substitut de la couverture vaccinale.","Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,delta_week_freq,"The value in this column specifies the number of weeks between two reports when calculating the delta columns. For example, if the number is 12, it means the deltas reflect a change over 12 weeks. If it is blank, it means the value is not available.","La valeur de cette colonne indique le nombre de semaines entre deux rapports lors du calcul des colonnes delta. Par exemple, si le nombre est 12, cela signifie que les deltas reflètent un changement sur 12 semaines.",Deltas are not calculated for every report week.,Les deltas ne sont pas calculés pour chaque semaine de rapport.,"Type: Number
+  
+  Values: Integers"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,numdelta_dose1,"The change since previous report in the cumulative number of first COVID-19 vaccine doses administered since the number of weeks specified in the ""delta_week_freq"" column.","Le changement du nombre de premières doses de vaccin contre la COVID-19 administrées depuis le nombre de semaines spécifié dans la colonne ""delta_week_freq"".",,,"Type: Number
+  
+  Values: Integers"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,numdelta_dose2,"The change since previous report in the cumulative number of second COVID-19 vaccine doses administered since the number of weeks specified in the ""delta_week_freq"" column.","Le changement du nombre de deuxièmes doses de vaccin contre la COVID-19 administrées depuis le nombre de semaines spécifié dans la colonne ""delta_week_freq"".",,,"Type: Number
+  
+  Values: Integers"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,numdelta_dose3,"The change since previous report in the cumulative number of third COVID-19 vaccine doses administered since the number of weeks specified in the ""delta_week_freq"" column.","Le changement du nombre de troisièmes doses de vaccin contre la COVID-19 administrées depuis le nombre de semaines spécifié dans la colonne ""delta_week_freq"".",,,"Type: Number
+  
+  Values: Integers"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,numdelta_dose4,"The change since previous report in the cumulative number of fourth COVID-19 vaccine doses administered since the number of weeks specified in the ""delta_week_freq"" column.","Le changement du nombre de quatrièmes doses de vaccin contre la COVID-19 administrées depuis le nombre de semaines spécifié dans la colonne ""delta_week_freq"".",,,"Type: Number
+  
+  Values: Integers"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,numdelta_dose5+,"The change since previous report in the cumulative number of fifth or more COVID-19 vaccine doses administered since the number of weeks specified in the ""delta_week_freq"" column.","Le changement du nombre de cinquièmes doses ou plus de vaccin contre la COVID-19 administrées depuis le nombre de semaines spécifié dans la colonne ""delta_week_freq"".",,,"Type: Number
+  
+  Values: Integers"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-administration-bydosenumber_grouped.csv,numdelta_notreported,"The change since previous report in the cumulative number of COVID-19 vaccine doses administered for which the dose number was not reported since the number of weeks specified in the ""delta_week_freq"" column.","Le changement du nombre cumulatif de doses de vaccin contre la COVID-19 administrées pour lesquelles le rang de la dose n'a pas été rapporté depuis le nombre de semaines spécifié dans la colonne ""delta_week_freq"".",,,"Type: Number
+  
+  Values: Integers"
+,,,,,,
+Last modified on / Dernière modification :,2024-04-10,,,,,
