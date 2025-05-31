@@ -86,7 +86,7 @@ All scripts, images, and notebooks are version-controlled in GitHub.
 
 ### 5. Move to Azure SQL
 
-- Loaded cleaned CSV/Parquet files into SQL tables using Synapse or Data Factory.
+- Loaded cleaned CSV/Parquet files into SQL tables using Synapse.
 
 ### 6. Build Dashboard in Power BI
 
